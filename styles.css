@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 20px 100px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+.btn{
+    width: 20px;
+    height: 20px; 
+    display: inline-block;
+    border: solid gray;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#cornsilk{
+    background-color: #FFF8DC;
+}
+#darkblue{
+    background-color: #5a4e20;
+}
+#orange{
+    background-color: #FFA500;
+}
+#black{
+    background-color: black;
+}
+#color-switcher{
+    text-align: right;
+}
